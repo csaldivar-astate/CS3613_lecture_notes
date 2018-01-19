@@ -1,7 +1,7 @@
 ## Supplemental Material:
 # File I/O in PHP
 
-<!-- .slide: data-background="images/cloudfilestorage.jpg" class="bg-box" -->
+<!-- .slide: data-background="assets/images/cloudfilestorage.jpg" class="bg-box" -->
 
 ---
 

@@ -1,5 +1,5 @@
 
-<!-- .slide: data-background="images/js-cover.jpg" -->
+<!-- .slide: data-background="assets/images/js-cover.jpg" -->
 
 ## Simple JavaScript
 

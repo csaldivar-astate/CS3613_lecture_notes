@@ -2,7 +2,7 @@
 
 ## Web Application Development
 
-<!-- .slide: data-background="images/real_clouds.jpg" data-background-size="100%" -->
+<!-- .slide: data-background="assets/images/real_clouds.jpg" data-background-size="100%" -->
 
 ---
 
@@ -23,7 +23,7 @@
 * NodeJS
 * (Go?  Python?)
 
-<!-- .slide: data-background="images/cloud_with_devices3.jpg" -->
+<!-- .slide: data-background="assets/images/cloud_with_devices3.jpg" -->
 
 ---
 
@@ -34,4 +34,4 @@
 * (Yes, there is a continuum between.)
 * Apps can (sometimes) be accessed via an API. 
 
-<!-- .slide: data-background="images/question_cloud.jpg" -->
+<!-- .slide: data-background="assets/images/question_cloud.jpg" -->

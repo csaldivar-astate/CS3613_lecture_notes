@@ -101,7 +101,7 @@ In this scheme, all files (or maybe just all per-user files) are kept in the sam
 
 Consider the following images, perhaps both named _`cat.jpg`_:
 
-<div class="center">![cat.jpg](images/cat.jpg "cat.jpg") &nbsp;&nbsp;&nbsp;&nbsp; ![cat.jpg](images/cat-2.jpg "cat.jpg")</div>
+<div class="center">![cat.jpg](assets/images/cat.jpg "cat.jpg") &nbsp;&nbsp;&nbsp;&nbsp; ![cat.jpg](assets/images/cat-2.jpg "cat.jpg")</div>
 
 ----
 
@@ -110,10 +110,10 @@ Consider the following images, perhaps both named _`cat.jpg`_:
 Hash the contents of both files to produce unique filenames:
 
 <div class="center">
-![cat.jpg](images/cat.jpg "cat.jpg")
+![cat.jpg](assets/images/cat.jpg "cat.jpg")
 <small style="display: block; float:right;">`36694dbdc36c5a74b5423ca08d83aeb1fe0bd3f2`</small>
 </div><div class="center">
-![cat.jpg](images/cat-2.jpg "cat.jpg")
+![cat.jpg](assets/images/cat-2.jpg "cat.jpg")
 <small style="display: block; float:right;">`18837556ba37335798b361ec5d6223b36b20d6cd`</small>
 </div>
 
@@ -124,7 +124,7 @@ Hash the contents of both files to produce unique filenames:
 Now, even if _many_ users upload the same image of the sleeping cat:
 
 </div><div class="center">
-![Four cat.jpg files](images/four-cat-2s.jpg "Four cat.jpg files.")
+![Four cat.jpg files](assets/images/four-cat-2s.jpg "Four cat.jpg files.")
 <small style="display: block; float:right;">`18837556ba37335798b361ec5d6223b36b20d6cd`<br><br><br>`18837556ba37335798b361ec5d6223b36b20d6cd`<br><br><br>`18837556ba37335798b361ec5d6223b36b20d6cd`<br><br><br>`18837556ba37335798b361ec5d6223b36b20d6cd`<br></small>
 </div>
 

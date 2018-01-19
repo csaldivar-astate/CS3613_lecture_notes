@@ -1,10 +1,10 @@
-<!-- .slide: data-background="images/git-icon.svg" class="bg-box" -->
+<!-- .slide: data-background="assets/images/git-icon.svg" class="bg-box" -->
 # Git
 ## Supplement
 
 ---
 
-<!-- .slide: data-background="images/git_logo_on_screen.png" class="bg-box" -->
+<!-- .slide: data-background="assets/images/git_logo_on_screen.png" class="bg-box" -->
 ## Resources
 
 https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf

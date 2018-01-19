@@ -84,7 +84,7 @@ spl_autoload_register("autoloadClassFromDirectory");
 
 ---
 
-<!-- .slide: data-background="images/cloud_sparks.jpg" class="bg-box" -->
+<!-- .slide: data-background="assets/images/cloud_sparks.jpg" class="bg-box" -->
 
 ## Resources
 

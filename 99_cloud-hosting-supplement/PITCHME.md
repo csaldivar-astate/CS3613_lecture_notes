@@ -1,5 +1,5 @@
 
-<!-- .slide: data-background="images/plugging_into_cloud.jpg" class="bg-box" -->
+<!-- .slide: data-background="assets/images/plugging_into_cloud.jpg" class="bg-box" -->
 # Cloud App Hosting Options
 ## Supplement
 
@@ -109,7 +109,7 @@ http://www.rackspace.com
 
 ---
 
-<!-- .slide: data-background="images/big_blue_cloud.jpg" class="bg-box" -->
+<!-- .slide: data-background="assets/images/big_blue_cloud.jpg" class="bg-box" -->
 ## Links<small style="font-size: 85%;">
 
 https://en.wikipedia.org/wiki/Cloud_computing_comparison

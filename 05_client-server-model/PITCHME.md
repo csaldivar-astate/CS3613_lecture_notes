@@ -5,7 +5,7 @@
 ## Client-Server Requests
 
 <!-- .element: class="center" -->
-![](images/client-server-http.png "Client-Server Request")
+![](assets/images/client-server-http.png "Client-Server Request")
 
 1. Client initiates the request
     * request travels to Server over network
@@ -64,7 +64,7 @@ Methods specify things like "GET a document", or "POST this new blog article".
 
 ---
 
-<!-- .slide: data-background="images/white_cloud.jpg" -->
+<!-- .slide: data-background="assets/images/white_cloud.jpg" -->
 
 ### Example `GET` Request
 
@@ -134,7 +134,7 @@ Our server-side controller will respond to requests differently depending on whi
 
 ---
 
-<!-- .slide: data-background="images/cloud-computing-hands.jpg" -->
+<!-- .slide: data-background="assets/images/cloud-computing-hands.jpg" -->
 <div style="background-color: rgba(255,255,255, 0.65); padding: 1.5em; border-radius: .75em;">
 
 <h2> Resources </h2>

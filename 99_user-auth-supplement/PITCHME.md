@@ -82,7 +82,7 @@ http://www.sha1-online.com/
 
 ---
 
-<!-- .slide: data-background="images/sad-cloud.png" class="bg-box" -->
+<!-- .slide: data-background="assets/images/sad-cloud.png" class="bg-box" -->
 
 ## Hashing is not Enough
 

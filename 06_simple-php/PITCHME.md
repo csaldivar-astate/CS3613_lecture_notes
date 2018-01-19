@@ -2,7 +2,7 @@
 # Simple PHP
 
 <!-- .element: style="height: 400px;" class="center" -->
-![PHP Logo](images/PHP-logo.png "PHP Logo")
+![PHP Logo](assets/images/PHP-logo.png "PHP Logo")
 
 ---
 
@@ -215,7 +215,7 @@ PHP allows `class` definitions to be _auto-loaded_.
 
 ---
 
-<!-- .slide: data-background="images/grumpy_cloud.gif" class="bg-box" -->
+<!-- .slide: data-background="assets/images/grumpy_cloud.gif" class="bg-box" -->
 
 ## Bad PHP
 
@@ -232,7 +232,7 @@ Bad example from Wikipedia:
 
 ---
 
-<!-- .slide: data-background="images/happy-cloud.png" class="bg-box" -->
+<!-- .slide: data-background="assets/images/happy-cloud.png" class="bg-box" -->
 
 ## Good PHP
 

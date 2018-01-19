@@ -2,7 +2,7 @@
 
 ---
 
-<!-- .slide: data-background="images/cloud-speech-bubble.svg" -->
+<!-- .slide: data-background="assets/images/cloud-speech-bubble.svg" -->
 
 ## Content <=> Object
 
@@ -56,13 +56,13 @@ Consider the following HTML:
 
 #####The HTML from the previous slide would result in this DOM representation:
 
-![DOM](images/DocumentObjectModel1.svg "Document Object Model")<!-- .element: style="height: 570px;" class="center" -->
+![DOM](assets/images/DocumentObjectModel1.svg "Document Object Model")<!-- .element: style="height: 570px;" class="center" -->
 
 ---
 
 ### Where is the Content?
 
-![DOM](images/DocumentObjectModel1.svg "Document Object Model")<!-- .element: style="height: 370px;" class="center" -->
+![DOM](assets/images/DocumentObjectModel1.svg "Document Object Model")<!-- .element: style="height: 370px;" class="center" -->
 
 See all of those ovals?  That is the _text_ inside the element.     
 `textContent`      
@@ -71,7 +71,7 @@ You can also access the full HTML content.
 
 ---
 
-<!-- .slide: data-background="images/white_cloud.jpg" -->
+<!-- .slide: data-background="assets/images/white_cloud.jpg" -->
 
 ## Tools
 

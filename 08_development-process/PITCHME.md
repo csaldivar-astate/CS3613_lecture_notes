@@ -71,7 +71,7 @@ As you annotate, you will find vague items that need more clarification:<small s
 
 ---
 
-<!-- .slide: data-background="images/cloud_test.jpg" class="bg-box" -->
+<!-- .slide: data-background="assets/images/cloud_test.jpg" class="bg-box" -->
 
 ## Stories Drive Tests
 

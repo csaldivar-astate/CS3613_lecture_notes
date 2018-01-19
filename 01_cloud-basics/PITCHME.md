@@ -4,7 +4,7 @@
 
 ## What _is_ "The Cloud" Anyway?
 
-<!-- .slide: data-background="images/question_cloud.jpg" -->
+<!-- .slide: data-background="assets/images/question_cloud.jpg" -->
 
 ---
 
@@ -20,7 +20,7 @@
 ## Client-Server Architecture  
 
 <!-- .element class="center" -->
-![Clients and a Server](images/serverclient.jpg "Clients and a Server")
+![Clients and a Server](assets/images/serverclient.jpg "Clients and a Server")
 
 Users operate the _client_ machines (outer ring).
 

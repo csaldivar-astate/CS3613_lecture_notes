@@ -120,7 +120,7 @@ ReferenceError: secret is not defined
 
 ---
 
-<!-- .slide: data-background="images/question_cloud2.jpg" class="bg-box" -->
+<!-- .slide: data-background="assets/images/question_cloud2.jpg" class="bg-box" -->
 
 ## Which way is Correct?
 

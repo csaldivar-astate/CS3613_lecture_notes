@@ -1,6 +1,6 @@
 # HTML
 
-<img src="images/HTML5_logo.png" class="center" style="margin: 0 auto; max-height: 350px;" />
+<img src="assets/images/HTML5_logo.png" class="center" style="margin: 0 auto; max-height: 350px;" />
 
 ---
 
@@ -235,14 +235,14 @@ Renders as:
 Inserts an image into the page.  The `src` attribute tells the path to the image, which may be local or a URL.
 
 ```html
-<p><img src="images/i-tag-cat-small.jpg"> Italicat says "Hi".</p>
+<p><img src="assets/images/i-tag-cat-small.jpg"> Italicat says "Hi".</p>
 ```
 
 Renders as:
 
 <iframe style="min-height: 230px;" srcdoc='
     <p>
-       <img src="images/i-tag-cat-small.jpg"> 
+       <img src="assets/images/i-tag-cat-small.jpg"> 
        Italicat says "Hi".
     </p>
 '></iframe>
@@ -285,7 +285,7 @@ Renders as:
 
 &nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>
 
-<!-- .slide: data-background="images/business_cloud.jpeg" -->
+<!-- .slide: data-background="assets/images/business_cloud.jpeg" -->
 
 
 ---
@@ -294,7 +294,7 @@ Renders as:
 
 HTML5 adds several new _semantic elements_.  The following 7 are worth memorizing:
 
-![semantic layout](images/semantic_elements.gif "Semantic elements example layout")<!-- .element: style="float: right; height: 280px;" -->
+![semantic layout](assets/images/semantic_elements.gif "Semantic elements example layout")<!-- .element: style="float: right; height: 280px;" -->
 
 * `<header>`
 * `<nav>`
@@ -338,4 +338,4 @@ HTML5 also added the ability to create "templates" right in your document.
 
 <small>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template</small>
 
-<!-- .slide: data-background="images/cloud-template.jpg" -->
+<!-- .slide: data-background="assets/images/cloud-template.jpg" -->

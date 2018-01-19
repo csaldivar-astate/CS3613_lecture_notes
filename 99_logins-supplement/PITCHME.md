@@ -6,7 +6,7 @@
 ## Login Form
 
 <!-- .element class="center" -->
-![](images/login_form.png)
+![](assets/images/login_form.png)
 
 ---
 
@@ -25,7 +25,7 @@
 ## Create User
 
 <!-- .element class="center" -->
-![](images/create_user_form.png)
+![](assets/images/create_user_form.png)
 
 ---
 

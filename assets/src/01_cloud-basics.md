@@ -171,5 +171,5 @@ After styling:
     - HTML+CSS+JavaScript
         + <small>https://jsfiddle.net/</small>
 * Develop/Deploy
-    - Koding
-        + <small>https://koding.com</small>
+    - CodeAnywhere (Also serves as an online IDE!)
+        + <small>https://http://codeanywhere.com</small>

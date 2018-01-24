@@ -2,7 +2,7 @@
 
 ---
 
-<!-- .slide: data-background="assets/images/cloud-speech-bubble.svg" -->
+<!-- .slide: data-background="https://cdn.rawgit.com/jcausey-astate/CS3613_lecture_notes/master/assets/images/cloud-speech-bubble.svg" -->
 
 ## Content <=> Object
 
@@ -56,13 +56,13 @@ Consider the following HTML:
 
 #####The HTML from the previous slide would result in this DOM representation:
 
-![DOM](assets/images/DocumentObjectModel1.svg "Document Object Model")<!-- .element: style="height: 570px;" class="center" -->
+![DOM](https://cdn.rawgit.com/jcausey-astate/CS3613_lecture_notes/master/assets/images/DocumentObjectModel1.svg "Document Object Model")<!-- .element: style="height: 570px;" class="center" -->
 
 ---
 
 ### Where is the Content?
 
-![DOM](assets/images/DocumentObjectModel1.svg "Document Object Model")<!-- .element: style="height: 370px;" class="center" -->
+![DOM](https://cdn.rawgit.com/jcausey-astate/CS3613_lecture_notes/master/assets/images/DocumentObjectModel1.svg "Document Object Model")<!-- .element: style="height: 370px;" class="center" -->
 
 See all of those ovals?  That is the _text_ inside the element.     
 `textContent`      

@@ -1,4 +1,4 @@
-<!-- .slide: data-background="assets/images/git-icon.svg" class="bg-box" -->
+<!-- .slide: data-background="https://cdn.rawgit.com/jcausey-astate/CS3613_lecture_notes/master/assets/images/git-icon.svg" class="bg-box" -->
 # Git
 ## Supplement
 

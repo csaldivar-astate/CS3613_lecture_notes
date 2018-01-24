@@ -8,7 +8,7 @@
 The _Model-View-Controller_ (MVC) design pattern focuses on the _separation of concerns_ of an application into three parts:
 
 <!-- .element: style="width: 9em; position: relative; float: right; display: block;" -->
-!["MVC-Process" by RegisFrey - Own work. Licensed under Public Domain via Wikimedia Commons - http://commons.wikimedia.org/wiki/File:MVC-Process.svg#/media/File:MVC-Process.svg](assets/images/MVC-Process.svg "MVC-Process")
+!["MVC-Process" by RegisFrey - Own work. Licensed under Public Domain via Wikimedia Commons - http://commons.wikimedia.org/wiki/File:MVC-Process.svg#/media/File:MVC-Process.svg](https://cdn.rawgit.com/jcausey-astate/CS3613_lecture_notes/master/assets/images/MVC-Process.svg "MVC-Process")
 <small style="width: 17em; font-size: 95%;">
 
 * Model

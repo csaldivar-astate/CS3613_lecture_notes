@@ -1,6 +1,6 @@
 # HTML
 
-<img src="assets/images/HTML5_logo.png" class="center" style="margin: 0 auto; max-height: 350px;" />
+<img src="assets/images/HTML5_logo.png" class="center" style="margin: 0 auto; max-height: 350px; border: 0px;" />
 
 ---
 
@@ -242,7 +242,7 @@ Renders as:
 
 <iframe style="min-height: 230px;" srcdoc='
     <p>
-       <img src="assets/images/i-tag-cat-small.jpg"> 
+       <img src="https://raw.githubusercontent.com/jcausey-astate/CS3613_lecture_notes/master/assets/images/i-tag-cat-small.jpg"> 
        Italicat says "Hi".
     </p>
 '></iframe>

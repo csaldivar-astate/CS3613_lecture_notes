@@ -103,7 +103,7 @@ Consider the following images, perhaps both named _`cat.jpg`_:
 
 <div class="center">![cat.jpg](assets/images/cat.jpg "cat.jpg") &nbsp;&nbsp;&nbsp;&nbsp; ![cat.jpg](assets/images/cat-2.jpg "cat.jpg")</div>
 
-----
++++
 
 ### Visual Example
 
@@ -117,7 +117,7 @@ Hash the contents of both files to produce unique filenames:
 <small style="display: block; float:right;">`18837556ba37335798b361ec5d6223b36b20d6cd`</small>
 </div>
 
-----
++++
 
 ### Visual Example
 

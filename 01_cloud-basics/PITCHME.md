@@ -114,7 +114,7 @@ http://en.wikipedia.org/wiki/HTML
 </html>
 ```
 
-----
++++
 
 ### HTML Example
 
@@ -145,7 +145,7 @@ To use it, add the following to the `<head>` section of your HTML:
 <link rel="stylesheet" type="text/css" href="path/to/style.css">
 ```
 
-----
++++
 
 ### CSS Example
 

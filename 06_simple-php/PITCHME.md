@@ -62,7 +62,7 @@ $hmm = $y / $x; // also 0.75! Wow.
 Notable differences from C++:
 ```asciidoc
 Operator | Desc
------------------------------------------------
++++++++++++++++++++++++++++++++++---
  ==     | Equal to (in terms of value)
  ===    | Same as (equal value AND type)
  !=     | Not equal to (in terms of value)
@@ -176,7 +176,7 @@ $mycar = new Car("Toyota", "Prius", 2015);
 $mycar->drive();
 ```
 
-----
++++
 
 ```php    
     public function __construct($make, $model, $year){

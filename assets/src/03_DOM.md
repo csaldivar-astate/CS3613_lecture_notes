@@ -52,7 +52,7 @@ Consider the following HTML:
 </html>
 ```
 
-----
++++
 
 #####The HTML from the previous slide would result in this DOM representation:
 

@@ -41,7 +41,7 @@ if(y === undefined){
 let z = y / x;  // Floating-Point division!
 ```
 
-----
++++
 
 ## Operators
 
@@ -51,7 +51,7 @@ Most operators are the same as in C++.  The ones with differences that are worth
 
 ```
 Operator | Desc
------------------------------------------------
++++++++++++++++++++++++++++++++++---
  ==     | Equal to (in terms of value)
  ===    | Same as (equal value AND type)
  !=     | Not equal to (in terms of value)
@@ -220,7 +220,7 @@ function flashMessage( msg ){
 }
 ```
 
-----
++++
 
 ```javascript
 function showFlashBox(){

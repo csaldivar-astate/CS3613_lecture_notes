@@ -43,7 +43,7 @@ To provide a cleaner alternative to the "curly-brace" enclosed bodies of control
 
 ```asciidoc
 Open              |  Close Keyword
------------------------------------
+++++++++++++++++++++++++---
 if( ... ):        |  endif;
 while( ... ):     |  endwhile;
 for( ... ):       |  endfor;

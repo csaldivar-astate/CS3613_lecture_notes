@@ -45,7 +45,7 @@ The _Model-View-Controller_ (MVC) design pattern focuses on the _separation of c
 
 <!-- .slide: data-transition="fade" -->
 
-----
++++
 
 <!-- .slide: data-transition="fade" -->
 

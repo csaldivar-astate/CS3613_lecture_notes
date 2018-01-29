@@ -129,7 +129,7 @@ function baz( x ){
 
 ---
 
-## Object-Oriented
+## Object-Oriented (older)
 
 ```javascript
 // Object constructor function
@@ -151,6 +151,33 @@ let truck = new Car("Toyota", "Tacoma", "2007", function(){
 mycar.drive();  // prints "Vroom Vroom" to log
 truck.drive();  // prints RrrRrrRrr RrrRrrRrr" to log 
 ```
+
+---
+
+## Object-Oriented (newer)
+
+```javascript
+class Rectangle {
+  constructor(height, width) {
+    this.height = height;
+    this.width = width;
+  }
+  // Getter
+  get area() {
+    return this.calcArea();
+  }
+  // Method
+  calcArea() {
+    return this.height * this.width;
+  }
+}
+
+const square = new Rectangle(10, 10);
+
+console.log(square.area); // 100
+```
+
+<small>Example from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes</small>
 
 ---
 

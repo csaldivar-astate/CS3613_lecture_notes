@@ -88,15 +88,15 @@ http://www.sha1-online.com/
 
 Same password always produces the same hash &mdash; but many people will use the same passwords:
 
-**Top (leaked) Passwords of 2014**
+**Top (leaked) Passwords of 2017**
 
 1. `123456`
-2. `password` 
-3. `12345`
-4. `12345678`
-5. `qwerty`
+2. `password`
+3. `12345678`
+4. `qwerty`
+5. `12345`
 
-<small>http://splashdata.com/press/worst-passwords-of-2014.htm</small>
+<small>Data from SplashData via https://www.securitymagazine.com/articles/88626-the-worst-passwords-of-2017-revealed</small>
 
 ---
 

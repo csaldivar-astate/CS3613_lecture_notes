@@ -35,7 +35,7 @@ So, flip to the next slide for some possibilities.
 ---
 
 **Better version of the Hacker Noon "Bad" endpoints:**
-<pre>
+<pre style="width: 100%;">
 New    : GET    "/employees"               : List all employees.
 New    : GET    "/employees/{id}"          : Get info for emp. #{id}.
 

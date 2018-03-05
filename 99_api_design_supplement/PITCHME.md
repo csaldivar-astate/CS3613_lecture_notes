@@ -37,37 +37,29 @@ So, flip to the next slide for some possibilities.
 ## Better version of the Hacker Noon "Bad" endpoints:
 
 <small style="font-size: 75%;">
+
 New:  `GET "/employees"` : List all employees.
 
 New:  `GET "/employees/{id}"` : Get info for employee #{id}.
 
-Bad:  `/addNewEmployee`
-
+Bad:  `/addNewEmployee`\
 &nbsp;&nbsp;Better:  `POST  "/employees"` : Add a new employee.
 
-Bad: `/updateEmployee`
+Bad: `/updateEmployee`\
+&nbsp;&nbsp;Better:  `POST "/employees/{id}` : Update employee #{id}\
+&nbsp;&nbsp;Alt:  `PUT "/employees/{id}` : Update employee #{id}
 
-&nbsp;&nbsp;Better:  `POST "/employees/{id}` : Update employee #{id}
-
-&nbst;&nbst;Alt:  `PUT "/employees/{id}` : Update employee #{id}
-
-Bad: `/deleteEmployee`
-
+Bad: `/deleteEmployee`\
 &nbsp;&nbsp;Better:  `DELETE "/employees/{id}` : Delete employee #{id}
 
-Bad: `/deleteAllEmployees`
-
+Bad: `/deleteAllEmployees`\
 &nbsp;&nbsp;Better:  `DELETE "/employees` : Delete all employees!  (Ouch.)
 
-Bad: `/promoteEmployee`
-
-&nbsp;&nbsp;Better:  `PUT "/employees/{id}/promotion` : Promote employee ${id}
-
+Bad: `/promoteEmployee`\
+&nbsp;&nbsp;Better:  `PUT "/employees/{id}/promotion` : Promote employee ${id}\
 &nbsp;&nbsp;Alt:  `POST "/employees/{id}/promotion` : Promote employee ${id}
 
-Bad: `/promoteAllEmployees`
-
-&nbsp;&nbsp;Better:  `PUT "/employees/{id}/promotion` : Promote all employees
-
+Bad: `/promoteAllEmployees`\
+&nbsp;&nbsp;Better:  `PUT "/employees/{id}/promotion` : Promote all employees\
 &nbsp;&nbsp;Alt:  `POST "/employees/{id}/promotion` : Promote all employees
 </small>

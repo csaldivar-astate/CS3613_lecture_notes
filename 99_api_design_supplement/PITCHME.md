@@ -34,9 +34,7 @@ So, flip to the next slide for some possibilities.
 
 ---
 
-**Better version of the Hacker Noon "Bad" endpoints:**
-
-<small style="font-size: 55%; padding-top: 0em; margin-top: 0em;">
+**Better version of the Hacker Noon "Bad" endpoints:**<small style="font-size: 55%; padding-top: 0em; margin-top: 0em;">
 
 New:  `GET "/employees"` : List all employees.
 

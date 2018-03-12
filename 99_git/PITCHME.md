@@ -73,14 +73,11 @@ git config --global http."https://phab.cs.astate.edu".sslCAInfo /PATH/TO/CERT/FI
 1. Create a repository on the GitHub site.
     * Don't include README, license, or .gitignore files yet (you can add those later).
 2. Add remote repository to your already-initialized repository:
-
 ``` bash
 git remote add origin remote repository URL
 git remote -v
 ```
-
-\3. Push your local version to GitHub:
-
+3. Push your local version to GitHub:
 ``` bash
 git push -u origin master
 ```

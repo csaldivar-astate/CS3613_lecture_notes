@@ -6,7 +6,7 @@
 
 <!-- .slide: data-background="assets/images/git_logo_on_screen.png" class="bg-box" -->
 ## Resources
-
+<small>
 https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
 
 https://git-scm.com/docs
@@ -20,6 +20,7 @@ https://github.com/blog/2019-how-to-undo-almost-anything-with-git
 (video) https://yow.eventer.com/yow-2014-1222/how-to-undo-almost-anything-with-git-by-peter-bell-1688
 
 https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+</small>
 
 ---
 
@@ -78,7 +79,7 @@ git remote add origin remote repository URL
 git remote -v
 ```
 
-3. Push your local version to GitHub:
+\3. Push your local version to GitHub:
 
 ``` bash
 git push -u origin master

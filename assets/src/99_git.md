@@ -68,7 +68,7 @@ git config --global http."https://phab.cs.astate.edu".sslCAInfo /PATH/TO/CERT/FI
 
 ---
 
-## Integration with GitHub (github.com)
+## Integration with GitHub <small>(github.com)</small>
 
 1. Create a repository on the GitHub site.
     * Don't include README, license, or .gitignore files yet (you can add those later).
